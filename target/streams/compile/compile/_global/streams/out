@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/camtredoux/Documents/project1/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala:61:15: comparing values of types Double and Null using `==` will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m        if (v == null) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
